@@ -1,0 +1,15 @@
+library: JNW_GM_CELL_SKY130A
+cell: JNW_GM_CELL
+author: Anonymous
+github: analogicus
+tagline: The answer is 42
+email: anon@anon.com
+url: analogicus.github.io
+doc:
+  # Make docs
+  #libraries:
+  #   <library>:
+  #       - <cell>
+  #       - <cell>
+sim:
+  # <simdir>: command
